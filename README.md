@@ -24,11 +24,28 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
    * Sell out specific player belonging to your club
    * Query on all players belonging to your club
    * Update on position and transfer value of your club players
+4. Intelligent Part(2024.1 - 2024.4 update):
+   * Predict players' future performance based on their historical data
+   * Chatbot interaction to give specific advice on many aspects of the game
+   * Help the club coach and manager to make more comprehensive decisions
 
 * **Front-End: JAVA GUI** 
-
 * **Back-End: JDBC MySQL**
 * **Data Source: Official Premier League Website**(https://www.premierleague.com/)
+* **Code Structure:**
+> /project-root
+│
+├── /python
+│   ├── data_preprocessing.py
+│   ├── performance_prediction.py
+│   └── player_clustering.py
+│
+├── /java
+│   ├── PerformancePredictor.java
+│   ├── PlayerClustering.java
+│   |── DecisionSupport.java
+│   |── Chatbot.java
+│   └── ...
 
 
 
@@ -62,9 +79,9 @@ Feel free to contact me on ErwinZhou@outlook.com
 
 实现了英足总模式+俱乐部经理+教练模式三种不同玩法，包括购买球员，出售球员，修改球员位置身价，降级俱乐部，积分榜和射手榜查询等多种功能。**更详细的介绍可以阅读我的课程报告。**
 
-出于时间原因，仍有待完善。
+于后期慢慢完成了**智能部分**，包括根据球员历史数据预测未来表现，聊天机器人(OpenAI接口)提供建议，帮助俱乐部教练和经理做出更全面的决策。
 
-**不过作为我大学至今最满意的课程作业之一，对实现了自己所热爱的东西的感觉十分开心。**
+**作为我大学至今最满意的课程作业之一，对实现了自己所热爱的东西的感觉十分开心。**
 
 内容会持续更新
 
