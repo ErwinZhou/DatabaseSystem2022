@@ -33,8 +33,8 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
 * **Back-End: JDBC MySQL**
 * **Data Source: Official Premier League Website**(https://www.premierleague.com/)
 * **Code Structure:**
-> /project-root
-│
+```
+/project-root
 ├── /python
 │   ├── data_preprocessing.py
 │   ├── performance_prediction.py
@@ -46,7 +46,7 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
 │   |── DecisionSupport.java
 │   |── Chatbot.java
 │   └── ...
-
+```
 
 
 Continue to update......
