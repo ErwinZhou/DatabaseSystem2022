@@ -32,7 +32,7 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
 * **Front-End: JAVA GUI** 
 * **Back-End: JDBC MySQL**
 * **Data Source: Official Premier League Website**(https://www.premierleague.com/)
-* **Simple DEMO**
+* **Simple DEMO:**
 ![alt text](image/image-1.png)
 ![alt text](image/image-2.png)
 ![alt text](image/image-3.png)
