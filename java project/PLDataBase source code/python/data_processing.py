@@ -2,6 +2,11 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
 def load_and_preprocess_data(file_path):
+    """
+    Load the data from the specified file path and preprocess it for the model.
+    @param file_path: The path to the CSV file containing the data.
+    @return: The preprocessed data as a Pandas DataFrame.
+    """
     # Load the data from the specified file path
     data = pd.read_csv(file_path)
     

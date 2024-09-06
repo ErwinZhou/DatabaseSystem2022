@@ -2,6 +2,11 @@ from sklearn.ensemble import GradientBoostingRegressor
 import joblib
 
 def train_performance_model(data):
+    """
+    Train a performance prediction model using the provided data.
+    @param data: The preprocessed data as a Pandas DataFrame.
+    @return: The trained model.
+    """
     # Extract the features and target variable from the data
     X = data[['games_played', 'goals', 'assists', 'minutes_played', 'performance_index']]
     y = data['future_performance']  

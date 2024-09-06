@@ -3,13 +3,9 @@ import joblib
 
 def train_clustering_model(data):
     """
-    Trains a Gaussian Mixture Model clustering model using the given data.
-
-    Parameters:
-    data (pandas.DataFrame): The input data containing the features for clustering.
-
-    Returns:
-    GaussianMixture: The trained clustering model.
+    Trains a Gaussian Mixture Model (GMM) clustering model on the given data.
+    @param data: The preprocessed data as a Pandas DataFrame.
+    @return: The trained clustering model.
     """
     X = data[['goals', 'assists', 'minutes_played', 'performance_index', 'pass_accuracy']]
     gmm = GaussianMixture(n_components=4, covariance_type='full', random_state=42)
