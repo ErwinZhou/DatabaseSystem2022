@@ -1,4 +1,4 @@
-package PLDataBase;
+
 
 import java.awt.BorderLayout;
 import java.awt.Container;
@@ -100,7 +100,7 @@ public class startFrame extends JFrame {
 	startFrame(){
 		setSize(1000,791);
 		setTitle("Permier League Database");
-		setLocationRelativeTo(null);//°Ñ½çÃæÉèÖÃÔÚÖÐ¼ä
+		setLocationRelativeTo(null);//ï¿½Ñ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¼ï¿½
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		welcomeLabel.setBounds(290,50,500,100);
 		Font f=new Font("Times New Roman",Font.BOLD+Font.ITALIC,25);
@@ -108,7 +108,7 @@ public class startFrame extends JFrame {
 		add(welcomeLabel);
 		ImageLabel.setSize(this.getWidth(),this.getHeight());
 		this.getLayeredPane().add(ImageLabel,new Integer(Integer.MIN_VALUE));
-		//°Ñ´°¿ÚÃæ°åÉèÎªÄÚÈÝÃæ°å²¢ÉèÎªÍ¸Ã÷¡¢ÎÞ²¼¾Ö¡£
+		//ï¿½Ñ´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å²¢ï¿½ï¿½ÎªÍ¸ï¿½ï¿½ï¿½ï¿½ï¿½Þ²ï¿½ï¿½Ö¡ï¿½
 		JPanel pan=(JPanel)this.getContentPane();
 		pan.setOpaque(false);
 		pan.setLayout(null);
