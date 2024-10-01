@@ -36,7 +36,7 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
   * Main Page:
 <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-1.png" width="600" height="400" />
 
-   * Club Manager Mode:
+  * Club Manager Mode:
 <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-3.png" width="600" height="400" />
 
 
