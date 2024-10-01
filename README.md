@@ -33,14 +33,14 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
 * **Back-End:** JDBC MySQL
 * **Data Source:** [Official Premier League Website](https://www.premierleague.com/)
 * **Simple DEMO:**
-  * Main Page:
+  - Main Page:
 <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-1.png" width="600" height="400" />
 
-  * Club Manager Mode:
+  - Club Manager Mode:
 <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-3.png" width="600" height="400" />
 
 
-  * Top Goal Scorers:
+  - Top Goal Scorers:
 <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-2.png" width="600" height="400" />
 
 
