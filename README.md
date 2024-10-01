@@ -34,13 +34,19 @@ Personally speaking,  presented by Teacher Wen, **Database System is one of the 
 * **Data Source:** [Official Premier League Website](https://www.premierleague.com/)
 * **Simple DEMO:**
   * Main Page:
-   <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-1.png" width="600" height="400" />
+<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-1.png" width="600" height="400" />
+
    * Club Manager Mode:
-   <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-3.png" width="600" height="400" />
+<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-3.png" width="600" height="400" />
+
+
   * Top Goal Scorers:
-   <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-2.png" width="600" height="400" />
+<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/demo-2.png" width="600" height="400" />
+
+
 * **Relationship Diagram**
-   <img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/RD.png" width="600" height="400" />
+<img src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/works/projects/NKU/database_system_2022/RD.png" width="600" height="400" />
+
 * **Code Structure:**
 ```
 /project-root
